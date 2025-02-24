@@ -3,8 +3,7 @@ layout: post
 title: Cloud Computing Enabled Big Multi-Omics Data Analytics
 subtitle: Koppad S, B A, Gkoutos GV, Acharjee A
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+tags: [omics, cloud computing, data analysis, genomics]
 comments: true
 mathjax: true
 author: Clàudia Lozano
