@@ -127,8 +127,8 @@ footer-hover-col: "#b22222"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/images/navbar_omics.png"
-footer-img: "/images/footbar_omics.png"
+navbar-img: "/images/navbar_omics.jpg"
+footer-img: "/images/footbar_omics.jpg"
 # page-img: "/images/sakura-bloom.jpg"
 
 
